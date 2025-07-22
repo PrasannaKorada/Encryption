@@ -1,5 +1,6 @@
 
 ##  **Substitution Cipher Tool** – `README.md`
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ```markdown
 # 🔐 Substitution Cipher Encryption-Decryption in Python
